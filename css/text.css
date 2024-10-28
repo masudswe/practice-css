@@ -1,0 +1,15 @@
+*{
+    color: rgb(0, 153, 255);
+}
+#headingOne{
+    color: rgb(135, 222, 157);
+}
+#headingTwo{
+    color: fuchsia;
+}
+.myclass{
+    background-color: lawngreen;
+}
+button{
+    color: crimson;
+}
